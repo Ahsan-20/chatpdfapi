@@ -1,0 +1,17 @@
+openai
+chromadb==0.3.26
+faiss-cpu
+tiktoken
+langchain==0.0.221
+uvicorn
+fastapi
+python-dotenv
+aiofiles
+pydantic
+tabulate
+pdf2image
+pypdf
+pytesseract
+unstructured-inference==0.2.4
+unstructured==0.5.9
+pdfminer.six
